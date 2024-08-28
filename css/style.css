@@ -364,6 +364,7 @@ textarea::placeholder {
 	height: 100%;
 	object-fit: cover;
 }
+
 /* About END */
 
 /* Numbers START */
@@ -1206,7 +1207,9 @@ textarea::placeholder {
 		margin: 0 auto;
 		width: 100%;
 		max-width: 505px;
+		margin-left: -30px;
 	}
+	
 	/* About 992 END */
 
 	/* Numbers 992 START */
@@ -1381,7 +1384,9 @@ textarea::placeholder {
 	.center-title::after {
 		width: 50px;
 	}
+
 	/* All styles 768 END */
+	
 
 	/* Header 768 START */
 	.header-top {
